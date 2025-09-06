@@ -6,9 +6,9 @@ The dashboard provides actionable insights into **revenue trends, customer behav
 ---
 
 ## 🔧 Tech Stack  
-- **SQL** → Data extraction, cleaning, and transformation  
+- **Excel** → Dataset preparation and loading  
+- **SQL** → Data extraction, cleaning, transformation and analytical queries 
 - **Power BI** → Data modeling and interactive dashboard creation  
-- **Excel/CSV** → Dataset preparation and loading  
 
 ---
 
