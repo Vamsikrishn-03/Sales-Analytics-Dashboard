@@ -36,4 +36,4 @@ This project uses the **Bike Store Relational Database** (sample dataset), which
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Screenshot](https://github.com/Vamsikrishn-03/Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+![Dashboard Screenshot](https://github.com/Vamsikrishn-03/Sales-Analytics-Dashboard/blob/main/03_Snapshot%20of%20Dashboard.png)
